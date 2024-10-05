@@ -39,3 +39,5 @@ The dataset contains sales data with the following columns:
 
 ![Screenshot (211)](https://github.com/user-attachments/assets/94201c9c-8051-4cc2-9e3a-eab7478535be)
 ![Screenshot (208)](https://github.com/user-attachments/assets/09765bb0-d490-4b80-a7ec-8402a82971cb)
+![Screenshot (210)](https://github.com/user-attachments/assets/c9e02aa2-3f36-4e72-89d0-1dbe92fc74e3)
+![Screenshot (212)](https://github.com/user-attachments/assets/36c14378-2055-4459-b84f-64237e36d07f)
